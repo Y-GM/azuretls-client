@@ -11,11 +11,11 @@ Welcome to AzureTLS Client, a robust and flexible HTTP client library for Golang
 
 ## Why AzureTLS Client?
 
-- **Security**: With built-in SSL pinning and proxy support, AzureTLS Client takes security seriously, ensuring your connections are secure and reliable.
+- **Security**: With built-in SSL pinning and proxy support, AzureTLS Client ensures your connections are secure and reliable.
   
 - **Customization**: Modify TLS ClientHello fingerprints, configure HTTP/2 settings, and even set ordered headers. AzureTLS Client is built to be as flexible as your project requires.
   
-- **Performance**: Built on top of Golang's native packages, AzureTLS Client is designed for speed and efficiency, making it suitable for both small and large-scale applications.
+- **Performance**: AzureTLS Client is designed for speed and efficiency, making it suitable for both small and large-scale applications.
 
 Whether you're a seasoned developer looking for a feature-rich HTTP client or you're just getting started with Golang, AzureTLS Client offers a blend of performance, customization, and security to help you build better applications.
 
